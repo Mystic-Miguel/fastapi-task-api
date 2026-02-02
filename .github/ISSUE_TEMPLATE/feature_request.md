@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Propose an enhancement
-labels: status:todo
+labels: status:todo,good first issue
 ---
 **Problem**
 **Proposal**
